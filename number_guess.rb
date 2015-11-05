@@ -1,6 +1,4 @@
 number = 10
-dog_sound = "Bark!"
-cat_sound = "Meow!"
 
 print "What's your number (1 to 100)?"
 guess_num = gets.chomp
